@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bruno\\Downloads\\InfoDengueRelatorio\\InfoDengueRelatorio\\InfoDengueRelatorio\\InfoDengueRelatorio.Dominio\\CadastroDeClienteMuralis.Dominio.csproj": {}
+    "C:\\Users\\bruno\\Downloads\\Muralis\\CadastroDeClienteMuralis.Dominio\\CadastroDeClienteMuralis.Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bruno\\Downloads\\InfoDengueRelatorio\\InfoDengueRelatorio\\InfoDengueRelatorio\\InfoDengueRelatorio.Dominio\\CadastroDeClienteMuralis.Dominio.csproj": {
+    "C:\\Users\\bruno\\Downloads\\Muralis\\CadastroDeClienteMuralis.Dominio\\CadastroDeClienteMuralis.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bruno\\Downloads\\InfoDengueRelatorio\\InfoDengueRelatorio\\InfoDengueRelatorio\\InfoDengueRelatorio.Dominio\\CadastroDeClienteMuralis.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\bruno\\Downloads\\Muralis\\CadastroDeClienteMuralis.Dominio\\CadastroDeClienteMuralis.Dominio.csproj",
         "projectName": "CadastroDeClienteMuralis.Dominio",
-        "projectPath": "C:\\Users\\bruno\\Downloads\\InfoDengueRelatorio\\InfoDengueRelatorio\\InfoDengueRelatorio\\InfoDengueRelatorio.Dominio\\CadastroDeClienteMuralis.Dominio.csproj",
+        "projectPath": "C:\\Users\\bruno\\Downloads\\Muralis\\CadastroDeClienteMuralis.Dominio\\CadastroDeClienteMuralis.Dominio.csproj",
         "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bruno\\Downloads\\InfoDengueRelatorio\\InfoDengueRelatorio\\InfoDengueRelatorio\\InfoDengueRelatorio.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\bruno\\Downloads\\Muralis\\CadastroDeClienteMuralis.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

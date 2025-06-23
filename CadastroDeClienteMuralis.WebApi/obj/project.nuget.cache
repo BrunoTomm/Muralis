@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DFKSvin6TSU=",
+  "dgSpecHash": "r3QhoHOZxe8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\bruno\\Downloads\\InfoDengueRelatorio\\InfoDengueRelatorio\\InfoDengueRelatorio\\InfoDengueRelatorio.WebApi\\CadastroDeClienteMuralis.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\bruno\\Downloads\\Muralis\\CadastroDeClienteMuralis.WebApi\\CadastroDeClienteMuralis.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bruno\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

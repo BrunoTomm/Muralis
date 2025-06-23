@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v/+/u0bM44g=",
+  "dgSpecHash": "jTkUKR8oeeI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\bruno\\Downloads\\InfoDengueRelatorio\\InfoDengueRelatorio\\InfoDengueRelatorio\\InfoDengueRelatorio.Dominio\\CadastroDeClienteMuralis.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\bruno\\Downloads\\Muralis\\CadastroDeClienteMuralis.Dominio\\CadastroDeClienteMuralis.Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bruno\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

@@ -34,10 +34,10 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\..\..\..\..\OneDrive\Área de Trabalho\Teste_Muralis\CadastroDeClienteMuralis.Aplicacao\CadastroDeClienteMuralis.Aplicacao.csproj" />
-		<ProjectReference Include="..\InfoDengueRelatorio.Dominio.Mediador\CadastroDeClienteMuralis.Dominio.Mediador.csproj" />
-		<ProjectReference Include="..\InfoDengueRelatorio.Dominio\CadastroDeClienteMuralis.Dominio.csproj" />
-		<ProjectReference Include="..\InfoDengueRelatorio.Infra\CadastroDeClienteMuralis.Infra.csproj" />
+		<ProjectReference Include="..\CadastroDeClienteMuralis.Aplicacao\CadastroDeClienteMuralis.Aplicacao.csproj" />
+		<ProjectReference Include="..\CadastroDeClienteMuralis.Dominio.Mediador\CadastroDeClienteMuralis.Dominio.Mediador.csproj" />
+		<ProjectReference Include="..\CadastroDeClienteMuralis.Dominio\CadastroDeClienteMuralis.Dominio.csproj" />
+		<ProjectReference Include="..\CadastroDeClienteMuralis.Infra\CadastroDeClienteMuralis.Infra.csproj" />
 	</ItemGroup>
 
 </Project>

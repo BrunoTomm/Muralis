@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\Downloads\CadastroDeClienteMuralis\CadastroDeClienteMuralis\CadastroDeClienteMuralis\CadastroDeClienteMuralis.Dominio\CadastroDeClienteMuralis.Dominio.csproj" />
+    <ProjectReference Include="..\CadastroDeClienteMuralis.Dominio\CadastroDeClienteMuralis.Dominio.csproj" />
   </ItemGroup>
 
 </Project>

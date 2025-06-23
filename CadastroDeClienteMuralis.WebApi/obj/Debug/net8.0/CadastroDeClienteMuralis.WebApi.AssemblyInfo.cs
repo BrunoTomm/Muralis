@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CadastroDeClienteMuralis.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1662bd7b40cb5a72c2895821b04afe655b62fc1b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CadastroDeClienteMuralis.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CadastroDeClienteMuralis.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

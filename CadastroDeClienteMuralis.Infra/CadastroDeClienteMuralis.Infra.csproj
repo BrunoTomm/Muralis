@@ -21,8 +21,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\InfoDengueRelatorio.Dominio.Mediador\CadastroDeClienteMuralis.Dominio.Mediador.csproj" />
-    <ProjectReference Include="..\InfoDengueRelatorio.Dominio\CadastroDeClienteMuralis.Dominio.csproj" />
+    <ProjectReference Include="..\CadastroDeClienteMuralis.Dominio.Mediador\CadastroDeClienteMuralis.Dominio.Mediador.csproj" />
+    <ProjectReference Include="..\CadastroDeClienteMuralis.Dominio\CadastroDeClienteMuralis.Dominio.csproj" />
   </ItemGroup>
 
 </Project>

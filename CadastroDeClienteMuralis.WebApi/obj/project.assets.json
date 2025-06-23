@@ -5406,23 +5406,23 @@
     },
     "CadastroDeClienteMuralis.Aplicacao/1.0.0": {
       "type": "project",
-      "path": "../../../../../OneDrive/Área de Trabalho/Teste_Muralis/CadastroDeClienteMuralis.Aplicacao/CadastroDeClienteMuralis.Aplicacao.csproj",
-      "msbuildProject": "../../../../../OneDrive/Área de Trabalho/Teste_Muralis/CadastroDeClienteMuralis.Aplicacao/CadastroDeClienteMuralis.Aplicacao.csproj"
+      "path": "../CadastroDeClienteMuralis.Aplicacao/CadastroDeClienteMuralis.Aplicacao.csproj",
+      "msbuildProject": "../CadastroDeClienteMuralis.Aplicacao/CadastroDeClienteMuralis.Aplicacao.csproj"
     },
     "CadastroDeClienteMuralis.Dominio/1.0.0": {
       "type": "project",
-      "path": "../InfoDengueRelatorio.Dominio/CadastroDeClienteMuralis.Dominio.csproj",
-      "msbuildProject": "../InfoDengueRelatorio.Dominio/CadastroDeClienteMuralis.Dominio.csproj"
+      "path": "../CadastroDeClienteMuralis.Dominio/CadastroDeClienteMuralis.Dominio.csproj",
+      "msbuildProject": "../CadastroDeClienteMuralis.Dominio/CadastroDeClienteMuralis.Dominio.csproj"
     },
     "CadastroDeClienteMuralis.Dominio.Mediador/1.0.0": {
       "type": "project",
-      "path": "../InfoDengueRelatorio.Dominio.Mediador/CadastroDeClienteMuralis.Dominio.Mediador.csproj",
-      "msbuildProject": "../InfoDengueRelatorio.Dominio.Mediador/CadastroDeClienteMuralis.Dominio.Mediador.csproj"
+      "path": "../CadastroDeClienteMuralis.Dominio.Mediador/CadastroDeClienteMuralis.Dominio.Mediador.csproj",
+      "msbuildProject": "../CadastroDeClienteMuralis.Dominio.Mediador/CadastroDeClienteMuralis.Dominio.Mediador.csproj"
     },
     "CadastroDeClienteMuralis.Infra/1.0.0": {
       "type": "project",
-      "path": "../InfoDengueRelatorio.Infra/CadastroDeClienteMuralis.Infra.csproj",
-      "msbuildProject": "../InfoDengueRelatorio.Infra/CadastroDeClienteMuralis.Infra.csproj"
+      "path": "../CadastroDeClienteMuralis.Infra/CadastroDeClienteMuralis.Infra.csproj",
+      "msbuildProject": "../CadastroDeClienteMuralis.Infra/CadastroDeClienteMuralis.Infra.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5454,11 +5454,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bruno\\Downloads\\InfoDengueRelatorio\\InfoDengueRelatorio\\InfoDengueRelatorio\\InfoDengueRelatorio.WebApi\\CadastroDeClienteMuralis.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\bruno\\Downloads\\Muralis\\CadastroDeClienteMuralis.WebApi\\CadastroDeClienteMuralis.WebApi.csproj",
       "projectName": "CadastroDeClienteMuralis.WebApi",
-      "projectPath": "C:\\Users\\bruno\\Downloads\\InfoDengueRelatorio\\InfoDengueRelatorio\\InfoDengueRelatorio\\InfoDengueRelatorio.WebApi\\CadastroDeClienteMuralis.WebApi.csproj",
+      "projectPath": "C:\\Users\\bruno\\Downloads\\Muralis\\CadastroDeClienteMuralis.WebApi\\CadastroDeClienteMuralis.WebApi.csproj",
       "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bruno\\Downloads\\InfoDengueRelatorio\\InfoDengueRelatorio\\InfoDengueRelatorio\\InfoDengueRelatorio.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\bruno\\Downloads\\Muralis\\CadastroDeClienteMuralis.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5480,17 +5480,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\bruno\\Downloads\\InfoDengueRelatorio\\InfoDengueRelatorio\\InfoDengueRelatorio\\InfoDengueRelatorio.Dominio.Mediador\\CadastroDeClienteMuralis.Dominio.Mediador.csproj": {
-              "projectPath": "C:\\Users\\bruno\\Downloads\\InfoDengueRelatorio\\InfoDengueRelatorio\\InfoDengueRelatorio\\InfoDengueRelatorio.Dominio.Mediador\\CadastroDeClienteMuralis.Dominio.Mediador.csproj"
+            "C:\\Users\\bruno\\Downloads\\Muralis\\CadastroDeClienteMuralis.Aplicacao\\CadastroDeClienteMuralis.Aplicacao.csproj": {
+              "projectPath": "C:\\Users\\bruno\\Downloads\\Muralis\\CadastroDeClienteMuralis.Aplicacao\\CadastroDeClienteMuralis.Aplicacao.csproj"
             },
-            "C:\\Users\\bruno\\Downloads\\InfoDengueRelatorio\\InfoDengueRelatorio\\InfoDengueRelatorio\\InfoDengueRelatorio.Dominio\\CadastroDeClienteMuralis.Dominio.csproj": {
-              "projectPath": "C:\\Users\\bruno\\Downloads\\InfoDengueRelatorio\\InfoDengueRelatorio\\InfoDengueRelatorio\\InfoDengueRelatorio.Dominio\\CadastroDeClienteMuralis.Dominio.csproj"
+            "C:\\Users\\bruno\\Downloads\\Muralis\\CadastroDeClienteMuralis.Dominio.Mediador\\CadastroDeClienteMuralis.Dominio.Mediador.csproj": {
+              "projectPath": "C:\\Users\\bruno\\Downloads\\Muralis\\CadastroDeClienteMuralis.Dominio.Mediador\\CadastroDeClienteMuralis.Dominio.Mediador.csproj"
             },
-            "C:\\Users\\bruno\\Downloads\\InfoDengueRelatorio\\InfoDengueRelatorio\\InfoDengueRelatorio\\InfoDengueRelatorio.Infra\\CadastroDeClienteMuralis.Infra.csproj": {
-              "projectPath": "C:\\Users\\bruno\\Downloads\\InfoDengueRelatorio\\InfoDengueRelatorio\\InfoDengueRelatorio\\InfoDengueRelatorio.Infra\\CadastroDeClienteMuralis.Infra.csproj"
+            "C:\\Users\\bruno\\Downloads\\Muralis\\CadastroDeClienteMuralis.Dominio\\CadastroDeClienteMuralis.Dominio.csproj": {
+              "projectPath": "C:\\Users\\bruno\\Downloads\\Muralis\\CadastroDeClienteMuralis.Dominio\\CadastroDeClienteMuralis.Dominio.csproj"
             },
-            "C:\\Users\\bruno\\OneDrive\\Área de Trabalho\\Teste_Muralis\\CadastroDeClienteMuralis.Aplicacao\\CadastroDeClienteMuralis.Aplicacao.csproj": {
-              "projectPath": "C:\\Users\\bruno\\OneDrive\\Área de Trabalho\\Teste_Muralis\\CadastroDeClienteMuralis.Aplicacao\\CadastroDeClienteMuralis.Aplicacao.csproj"
+            "C:\\Users\\bruno\\Downloads\\Muralis\\CadastroDeClienteMuralis.Infra\\CadastroDeClienteMuralis.Infra.csproj": {
+              "projectPath": "C:\\Users\\bruno\\Downloads\\Muralis\\CadastroDeClienteMuralis.Infra\\CadastroDeClienteMuralis.Infra.csproj"
             }
           }
         }

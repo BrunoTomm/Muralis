@@ -12,13 +12,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aplicacao", "Aplicacao", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroDeClienteMuralis.Aplicacao", "CadastroDeClienteMuralis.Aplicacao\CadastroDeClienteMuralis.Aplicacao.csproj", "{E3ABF13B-C95B-4506-9120-CD837C3B817E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroDeClienteMuralis.WebApi", "..\..\..\Downloads\CadastroDeClienteMuralis\CadastroDeClienteMuralis\CadastroDeClienteMuralis\CadastroDeClienteMuralis.WebApi\CadastroDeClienteMuralis.WebApi.csproj", "{64EFEB2A-F0AE-8CEA-BCB8-82A220C83DF1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroDeClienteMuralis.WebApi", "CadastroDeClienteMuralis.WebApi\CadastroDeClienteMuralis.WebApi.csproj", "{64EFEB2A-F0AE-8CEA-BCB8-82A220C83DF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroDeClienteMuralis.Dominio", "..\..\..\Downloads\CadastroDeClienteMuralis\CadastroDeClienteMuralis\CadastroDeClienteMuralis\CadastroDeClienteMuralis.Dominio\CadastroDeClienteMuralis.Dominio.csproj", "{8F789792-EDAE-53E1-2FCA-DE08560025DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroDeClienteMuralis.Dominio", "CadastroDeClienteMuralis.Dominio\CadastroDeClienteMuralis.Dominio.csproj", "{8F789792-EDAE-53E1-2FCA-DE08560025DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroDeClienteMuralis.Dominio.Mediador", "..\..\..\Downloads\CadastroDeClienteMuralis\CadastroDeClienteMuralis\CadastroDeClienteMuralis\CadastroDeClienteMuralis.Dominio.Mediador\CadastroDeClienteMuralis.Dominio.Mediador.csproj", "{9264F514-F222-3C47-94A2-DB8D04F0B702}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroDeClienteMuralis.Dominio.Mediador", "CadastroDeClienteMuralis.Dominio.Mediador\CadastroDeClienteMuralis.Dominio.Mediador.csproj", "{9264F514-F222-3C47-94A2-DB8D04F0B702}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroDeClienteMuralis.Infra", "..\..\..\Downloads\CadastroDeClienteMuralis\CadastroDeClienteMuralis\CadastroDeClienteMuralis\CadastroDeClienteMuralis.Infra\CadastroDeClienteMuralis.Infra.csproj", "{950764AE-DF37-52CF-3C21-FEDDD9C9F555}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroDeClienteMuralis.Infra", "CadastroDeClienteMuralis.Infra\CadastroDeClienteMuralis.Infra.csproj", "{950764AE-DF37-52CF-3C21-FEDDD9C9F555}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
