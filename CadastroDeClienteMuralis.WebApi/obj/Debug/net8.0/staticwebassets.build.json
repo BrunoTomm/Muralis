@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "WrTCUcOkhTaipRdAZot4Ydknc8YtvABLG5ytWcnC52Y=",
+  "Source": "CadastroDeClienteMuralis.WebApi",
+  "BasePath": "_content/CadastroDeClienteMuralis.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
